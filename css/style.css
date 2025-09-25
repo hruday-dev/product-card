@@ -41,7 +41,8 @@ article small{
 }
 p{
     margin: 5px 0;
-    font-weight: 700;
+    /* font-weight: 500; */
+    line-height: 20px;
 }
 .description{
     font-size: 0.8rem;
