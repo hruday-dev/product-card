@@ -81,6 +81,9 @@ button{
 button img{
     width: 1rem;
 }
+button:hover{
+    background: var(--Green700);
+}
 @media screen and (max-width:470px) {
     img{
         content: url('../images/image-product-mobile.jpg');
