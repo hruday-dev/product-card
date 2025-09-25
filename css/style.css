@@ -28,12 +28,18 @@ img{
     width: 50%;
 }
 article{
-    padding: 2em;
+    padding: 1.8rem;
+}
+article > *{
+    margin-bottom: 16px;
 }
 article p:first-of-type{
     text-transform: uppercase;
     color: var(--Grey);
     letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+}
+.description{
     font-size: 0.8rem;
 }
 h1{
